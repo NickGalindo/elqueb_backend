@@ -1,0 +1,802 @@
+[
+  {
+    "ofertaid": 1,
+    "title": "Descuento en Equipos de Limpieza Industrial",
+    "description": "Aprovecha un descuento del 20% en la compra de equipos de limpieza industrial. Válido para compras mayores a 5 millones de pesos.",
+    "category": "Productos de Limpieza",
+    "region": "Andina",
+    "ofertante": "CleanTech"
+  },
+  {
+    "ofertaid": 2,
+    "title": "Curso de Capacitación en Cuidado Infantil",
+    "description": "Ofrecemos un curso intensivo de capacitación en cuidado infantil. Aprende técnicas modernas y obtén un certificado al finalizar.",
+    "category": "Cuidado Infantil",
+    "region": "Pacífico",
+    "ofertante": "EduKids"
+  },
+  {
+    "ofertaid": 3,
+    "title": "Oferta Especial en Ropa Deportiva",
+    "description": "Consigue un conjunto de ropa deportiva de alta calidad con un 15% de descuento. Solo por tiempo limitado. ¡Haz ejercicio con estilo!",
+    "category": "Ropa y Calzado",
+    "region": "Caribe",
+    "ofertante": "SportStyle"
+  },
+  {
+    "ofertaid": 4,
+    "title": "Servicio de Transporte Express",
+    "description": "Envía tus productos de manera rápida y segura con nuestro servicio de transporte express. Descuentos especiales para volúmenes grandes.",
+    "category": "Transporte",
+    "region": "Orinoquía",
+    "ofertante": "SwiftCargo"
+  },
+  {
+    "ofertaid": 5,
+    "title": "Venta de Medicamentos a Precios Accesibles",
+    "description": "Ofrecemos una amplia gama de medicamentos a precios accesibles. Garantizamos calidad y servicio confiable.",
+    "category": "Medicamentos",
+    "region": "Amazonía",
+    "ofertante": "FarmaciaSalud"
+  },
+  {
+    "ofertaid": 6,
+    "title": "Descuento en Tecnología para Emprendedores",
+    "description": "Emprendedores, aprovechen un descuento exclusivo del 10% en la compra de dispositivos tecnológicos. ¡Potencia tu negocio!",
+    "category": "Tecnologia",
+    "region": "Andina",
+    "ofertante": "TechInnovate"
+  },
+  {
+    "ofertaid": 7,
+    "title": "Oferta en Alquiler de Espacios Inmobiliarios",
+    "description": "Amplio catálogo de espacios inmobiliarios para negocios. Alquila tu local con nosotros y recibe descuentos especiales.",
+    "category": "Inmobiliario",
+    "region": "Insular",
+    "ofertante": "RealSpace"
+  },
+  {
+    "ofertaid": 8,
+    "title": "Productos de Alimentación Orgánicos",
+    "description": "Descubre nuestra selección de productos alimenticios orgánicos. Contribuye a un estilo de vida saludable y sostenible.",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "GreenHarvest"
+  },
+  {
+    "ofertaid": 9,
+    "title": "Servicio de Asesoramiento en Servicios Básicos",
+    "description": "Ofrecemos asesoramiento especializado en servicios básicos. Optimiza tus recursos y reduce costos con nuestras recomendaciones.",
+    "category": "Servicios Basicos",
+    "region": "Pacífico",
+    "ofertante": "OptiConsult"
+  },
+  {
+    "ofertaid": 10,
+    "title": "Descuento en Productos Personales",
+    "description": "Aprovecha un 20% de descuento en productos personales de alta calidad. Renueva tu estilo con nuestras ofertas exclusivas.",
+    "category": "Productos Personales",
+    "region": "Andina",
+    "ofertante": "StyleEmporium"
+  },
+  {
+    "ofertaid": 11,
+    "title": "Oferta en Servicios de Catering",
+    "description": "Celebra tus eventos con nosotros. Ofrecemos servicios de catering de alta calidad. Descuentos para eventos corporativos.",
+    "category": "Alimentacion",
+    "region": "Amazonía",
+    "ofertante": "GourmetCatering"
+  },
+  {
+    "ofertaid": 12,
+    "title": "Descuento en Productos de Limpieza Ecológicos",
+    "description": "Contribuye al medio ambiente con nuestros productos de limpieza ecológicos. Descuentos especiales para compras al por mayor.",
+    "category": "Productos de Limpieza",
+    "region": "Orinoquía",
+    "ofertante": "EcoCleanSolutions"
+  },
+  {
+    "ofertaid": 13,
+    "title": "Oferta en Servicios de Consultoría Tecnológica",
+    "description": "Optimiza tu negocio con nuestra consultoría tecnológica. Descubre nuevas oportunidades para el crecimiento digital.",
+    "category": "Tecnologia",
+    "region": "Insular",
+    "ofertante": "DigitalConsult"
+  },
+  {
+    "ofertaid": 14,
+    "title": "Descuento en Ropa de Moda Infantil",
+    "description": "Viste a tus pequeños con estilo. Descuentos exclusivos en nuestra colección de moda infantil. ¡Haz que destaquen!",
+    "category": "Ropa y Calzado",
+    "region": "Caribe",
+    "ofertante": "TinyTrend"
+  },
+  {
+    "ofertaid": 15,
+    "title": "Oferta en Cuidado de la Piel y Belleza",
+    "description": "Descubre nuestra gama de productos para el cuidado de la piel y la belleza. Descuentos especiales para compras en línea.",
+    "category": "Productos Personales",
+    "region": "Andina",
+    "ofertante": "BeautyWellness"
+  },
+  {
+    "ofertaid": 16,
+    "title": "Descuento en Medicamentos Genéricos",
+    "description": "Ahorra en tus gastos de salud con nuestra oferta en medicamentos genéricos. Calidad garantizada a precios asequibles.",
+    "category": "Medicamentos",
+    "region": "Pacífico",
+    "ofertante": "GenericPharma"
+  },
+  {
+    "ofertaid": 17,
+    "title": "Promoción en Alquiler de Vehículos",
+    "description": "Alquila un vehículo con nosotros y recibe tarifas promocionales. Descubre la comodidad de nuestros autos para tu negocio.",
+    "category": "Transporte",
+    "region": "Andina",
+    "ofertante": "DriveEasyRent"
+  },
+  {
+    "ofertaid": 18,
+    "title": "Descuento en Tecnología para la Agricultura",
+    "description": "Moderniza tu granja con nuestra tecnología agrícola. Obtén un 15% de descuento en todas tus compras. ¡Optimiza tu producción!",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "AgroTechInnovate"
+  },
+  {
+    "ofertaid": 19,
+    "title": "Oferta en Servicios de Fontanería",
+    "description": "Solucionamos tus problemas de fontanería de manera rápida y eficiente. Descuentos para servicios recurrentes y nuevos clientes.",
+    "category": "Servicios Basicos",
+    "region": "Orinoquía",
+    "ofertante": "QuickPlumb"
+  },
+  {
+    "ofertaid": 20,
+    "title": "Descuento en Ropa de Trabajo",
+    "description": "Viste a tu equipo de trabajo con estilo y funcionalidad. Descuentos exclusivos en nuestra colección de ropa laboral.",
+    "category": "Ropa y Calzado",
+    "region": "Amazonía",
+    "ofertante": "WorkStyle"
+  },
+  {
+    "ofertaid": 21,
+    "title": "Descuento en Productos de Limpieza Sostenibles",
+    "description": "Cuida el planeta con nuestros productos de limpieza sostenibles. Obtén un 25% de descuento en tu primera compra.",
+    "category": "Productos de Limpieza",
+    "region": "Andina",
+    "ofertante": "EcoCare"
+  },
+  {
+    "ofertaid": 22,
+    "title": "Curso de Nutrición para Emprendedores",
+    "description": "Aprende a mantener una dieta equilibrada con nuestro curso de nutrición. Descuentos especiales para emprendedores.",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "NutriVida"
+  },
+  {
+    "ofertaid": 23,
+    "title": "Oferta en Servicios de Tecnología Blockchain",
+    "description": "Explora las posibilidades de la tecnología blockchain con nuestra oferta de servicios especializados. ¡Inicia tu transformación digital!",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "BlockInnovate"
+  },
+  {
+    "ofertaid": 24,
+    "title": "Venta de Ropa Deportiva de Alta Gama",
+    "description": "Descubre nuestra colección exclusiva de ropa deportiva de alta gama. Obtén un 15% de descuento en compras superiores a 1 millón de pesos.",
+    "category": "Ropa y Calzado",
+    "region": "Orinoquía",
+    "ofertante": "EliteSports"
+  },
+  {
+    "ofertaid": 25,
+    "title": "Promoción en Cuidado Infantil",
+    "description": "Cuida de tus pequeños con productos de calidad. Compra productos de cuidado infantil y recibe regalos sorpresa en cada compra.",
+    "category": "Cuidado Infantil",
+    "region": "Amazonía",
+    "ofertante": "TinyCare"
+  },
+  {
+    "ofertaid": 26,
+    "title": "Descuento en Medicamentos Genéricos",
+    "description": "Ahorra en tus gastos de salud con nuestra oferta en medicamentos genéricos. Calidad garantizada a precios asequibles.",
+    "category": "Medicamentos",
+    "region": "Insular",
+    "ofertante": "GenericPharma"
+  },
+  {
+    "ofertaid": 27,
+    "title": "Oferta en Servicios de Diseño Web",
+    "description": "Impulsa tu presencia en línea con nuestro servicio de diseño web. Descuentos exclusivos para pequeños empresarios.",
+    "category": "Tecnologia",
+    "region": "Andina",
+    "ofertante": "WebCraft"
+  },
+  {
+    "ofertaid": 28,
+    "title": "Productos de Belleza Personalizados",
+    "description": "Descubre la belleza personalizada con nuestros productos exclusivos. ¡Recibe una consulta gratuita en cada compra!",
+    "category": "Productos Personales",
+    "region": "Caribe",
+    "ofertante": "GlamZone"
+  },
+  {
+    "ofertaid": 29,
+    "title": "Descuento en Servicios de Mudanza",
+    "description": "Facilitamos tu mudanza con descuentos especiales. Contáctanos para un servicio rápido y eficiente.",
+    "category": "Transporte",
+    "region": "Pacífico",
+    "ofertante": "MoveEase"
+  },
+  {
+    "ofertaid": 30,
+    "title": "Oferta en Maquinaria Agrícola",
+    "description": "Aumenta tu productividad agrícola con nuestra maquinaria de última generación. Descuentos especiales para agricultores.",
+    "category": "Alimentacion",
+    "region": "Orinoquía",
+    "ofertante": "AgroTechSolutions"
+  },
+  {
+    "ofertaid": 31,
+    "title": "Descuento en Ropa de Trabajo",
+    "description": "Viste a tu equipo de trabajo con estilo y funcionalidad. Descuentos exclusivos en nuestra colección de ropa laboral.",
+    "category": "Ropa y Calzado",
+    "region": "Amazonía",
+    "ofertante": "WorkStyle"
+  },
+  {
+    "ofertaid": 32,
+    "title": "Promoción en Servicios de Fontanería",
+    "description": "Solucionamos tus problemas de fontanería de manera rápida y eficiente. Descuentos para servicios recurrentes y nuevos clientes.",
+    "category": "Servicios Basicos",
+    "region": "Caribe",
+    "ofertante": "QuickPlumb"
+  },
+  {
+    "ofertaid": 33,
+    "title": "Venta de Tecnología para el Hogar",
+    "description": "Descubre nuestras ofertas en tecnología para el hogar. Transforma tu espacio con nuestros dispositivos inteligentes.",
+    "category": "Tecnologia",
+    "region": "Andina",
+    "ofertante": "HomeTechHub"
+  },
+  {
+    "ofertaid": 34,
+    "title": "Oferta en Servicios de Consultoría Empresarial",
+    "description": "Optimiza tus operaciones con nuestra consultoría empresarial. Descuentos para pequeñas y medianas empresas.",
+    "category": "Otros",
+    "region": "Caribe",
+    "ofertante": "BusinessConsult"
+  },
+  {
+    "ofertaid": 35,
+    "title": "Descuento en Productos de Belleza Natural",
+    "description": "Experimenta la belleza natural con nuestros productos. Obtén un 20% de descuento en toda nuestra línea.",
+    "category": "Productos Personales",
+    "region": "Pacífico",
+    "ofertante": "NatureBeauty"
+  },
+  {
+    "ofertaid": 36,
+    "title": "Promoción en Servicios de Catering",
+    "description": "Celebra tus eventos con nosotros. Ofrecemos servicios de catering de alta calidad. Descuentos para eventos corporativos.",
+    "category": "Alimentacion",
+    "region": "Amazonía",
+    "ofertante": "GourmetCatering"
+  },
+  {
+    "ofertaid": 37,
+    "title": "Curso de Desarrollo Personal en Línea",
+    "description": "Transforma tu vida con nuestro curso de desarrollo personal. Descuentos especiales para inscripciones tempranas.",
+    "category": "Otros",
+    "region": "Insular",
+    "ofertante": "LifeSkillsOnline"
+  },
+  {
+    "ofertaid": 38,
+    "title": "Venta de Tecnología para Agricultores",
+    "description": "Facilita tu trabajo agrícola con nuestra tecnología especializada. Descuentos exclusivos para agricultores.",
+    "category": "Alimentacion",
+    "region": "Andina",
+    "ofertante": "AgroTechInnovate"
+  },
+  {
+    "ofertaid": 39,
+    "title": "Descuento en Artículos de Limpieza para el Hogar",
+    "description": "Mantén tu hogar impecable con nuestros productos de limpieza. Descuentos especiales para compras en línea.",
+    "category": "Productos de Limpieza",
+    "region": "Caribe",
+    "ofertante": "HomeCleanSupplies"
+  },
+  {
+    "ofertaid": 40,
+    "title": "Oferta en Servicios de Reparación de Electrodomésticos",
+    "description": "Reparación rápida y confiable de electrodomésticos. Descuentos para clientes recurrentes.",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "FixItTech"
+  },
+  {
+    "ofertaid": 41,
+    "title": "Descuento en Mobiliario de Oficina",
+    "description": "Renueva tu espacio de trabajo con nuestro mobiliario de oficina de alta calidad. Descuentos especiales para compras al por mayor.",
+    "category": "Inmobiliario",
+    "region": "Orinoquía",
+    "ofertante": "OfficeStyle"
+  },
+  {
+    "ofertaid": 42,
+    "title": "Curso de Marketing Digital para Emprendedores",
+    "description": "Aprende las mejores estrategias de marketing digital para impulsar tu negocio. Descuentos exclusivos para emprendedores.",
+    "category": "Otros",
+    "region": "Insular",
+    "ofertante": "DigitalMasters"
+  },
+  {
+    "ofertaid": 43,
+    "title": "Oferta en Juguetes Educativos",
+    "description": "Estimula el aprendizaje de tus hijos con nuestros juguetes educativos. Descuentos especiales para padres comprometidos.",
+    "category": "Cuidado Infantil",
+    "region": "Caribe",
+    "ofertante": "EduToys"
+  },
+  {
+    "ofertaid": 44,
+    "title": "Descuento en Servicios de Fotografía Profesional",
+    "description": "Captura momentos inolvidables con nuestros servicios de fotografía. Descuentos para eventos y sesiones fotográficas.",
+    "category": "Otros",
+    "region": "Pacífico",
+    "ofertante": "PhotoPro"
+  },
+  {
+    "ofertaid": 45,
+    "title": "Promoción en Equipos de Sonido",
+    "description": "Dale vida a tus eventos con nuestros equipos de sonido de alta calidad. Descuentos especiales para DJs y organizadores de eventos.",
+    "category": "Tecnologia",
+    "region": "Andina",
+    "ofertante": "SoundWaveTech"
+  },
+  {
+    "ofertaid": 46,
+    "title": "Descuento en Artículos de Cocina",
+    "description": "Mejora tu experiencia culinaria con nuestros artículos de cocina. Descuentos exclusivos en utensilios y electrodomésticos.",
+    "category": "Alimentacion",
+    "region": "Amazonía",
+    "ofertante": "KitchenEssentials"
+  },
+  {
+    "ofertaid": 47,
+    "title": "Oferta en Servicios de Jardinería",
+    "description": "Embellece tu espacio exterior con nuestros servicios de jardinería. Descuentos para contratos a largo plazo.",
+    "category": "Servicios Basicos",
+    "region": "Caribe",
+    "ofertante": "GreenThumbLandscapes"
+  },
+  {
+    "ofertaid": 48,
+    "title": "Venta de Libros de Desarrollo Personal",
+    "description": "Invierte en tu crecimiento personal con nuestra selección de libros. Descuentos exclusivos para lectores comprometidos.",
+    "category": "Otros",
+    "region": "Andina",
+    "ofertante": "BookWisdom"
+  },
+  {
+    "ofertaid": 49,
+    "title": "Descuento en Ropa de Moda Sostenible",
+    "description": "Viste con conciencia ambiental. Descuentos en nuestra línea de moda sostenible. ¡Haz una declaración de estilo!",
+    "category": "Ropa y Calzado",
+    "region": "Pacífico",
+    "ofertante": "GreenFashionCo"
+  },
+  {
+    "ofertaid": 50,
+    "title": "Oferta en Artículos de Aseo Personal",
+    "description": "Cuida de ti mismo con nuestros productos de aseo personal. Descuentos especiales en kits de cuidado completo.",
+    "category": "Productos Personales",
+    "region": "Orinoquía",
+    "ofertante": "PersonalCareHub"
+  },
+  {
+    "ofertaid": 51,
+    "title": "Descuento en Medicamentos Homeopáticos",
+    "description": "Descubre los beneficios de la homeopatía con nuestros medicamentos. Descuentos exclusivos para compras en línea.",
+    "category": "Medicamentos",
+    "region": "Insular",
+    "ofertante": "HolisticHealth"
+  },
+  {
+    "ofertaid": 52,
+    "title": "Oferta en Servicios de Fontanería Residencial",
+    "description": "Solucionamos problemas de fontanería en tu hogar. Descuentos para servicios recurrentes y nuevos clientes.",
+    "category": "Servicios Basicos",
+    "region": "Caribe",
+    "ofertante": "ResidentialPlumb"
+  },
+  {
+    "ofertaid": 53,
+    "title": "Descuento en Artículos de Limpieza para el Hogar",
+    "description": "Mantén tu hogar impecable con nuestros productos de limpieza. Descuentos especiales para compras en línea.",
+    "category": "Productos de Limpieza",
+    "region": "Amazonía",
+    "ofertante": "HomeCleanSupplies"
+  },
+  {
+    "ofertaid": 54,
+    "title": "Promoción en Equipos de Ejercicio en Casa",
+    "description": "Transforma tu hogar en un gimnasio personal. Descuentos exclusivos en equipos de ejercicio y accesorios.",
+    "category": "Otros",
+    "region": "Pacífico",
+    "ofertante": "HomeFitGear"
+  },
+  {
+    "ofertaid": 55,
+    "title": "Venta de Tecnología para la Educación",
+    "description": "Potencia la educación con nuestra tecnología especializada. Descuentos exclusivos para instituciones educativas.",
+    "category": "Tecnologia",
+    "region": "Andina",
+    "ofertante": "EduTechSolutions"
+  },
+  {
+    "ofertaid": 56,
+    "title": "Oferta en Servicios de Reparación de Electrodomésticos",
+    "description": "Reparación rápida y confiable de electrodomésticos. Descuentos para clientes recurrentes.",
+    "category": "Tecnologia",
+    "region": "Orinoquía",
+    "ofertante": "FixItTech"
+  },
+  {
+    "ofertaid": 57,
+    "title": "Descuento en Juguetes Creativos para Niños",
+    "description": "Estimula la creatividad de tus hijos con nuestros juguetes. Descuentos exclusivos en sets de construcción y arte.",
+    "category": "Cuidado Infantil",
+    "region": "Insular",
+    "ofertante": "CreativeKidsToys"
+  },
+  {
+    "ofertaid": 58,
+    "title": "Oferta en Servicios de Consultoría Financiera",
+    "description": "Optimiza tus finanzas con nuestra consultoría especializada. Descuentos para pequeñas empresas y emprendedores.",
+    "category": "Otros",
+    "region": "Caribe",
+    "ofertante": "FinanceWiseConsult"
+  },
+  {
+    "ofertaid": 59,
+    "title": "Descuento en Ropa de Moda Infantil",
+    "description": "Viste a tus pequeños con estilo. Descuentos exclusivos en nuestra colección de moda infantil. ¡Haz que destaquen!",
+    "category": "Ropa y Calzado",
+    "region": "Andina",
+    "ofertante": "TinyTrend"
+  },
+  {
+    "ofertaid": 60,
+    "title": "Promoción en Servicios de Catering para Eventos",
+    "description": "Haz de tu evento un éxito con nuestro servicio de catering. Descuentos para eventos corporativos y sociales.",
+    "category": "Alimentacion",
+    "region": "Pacífico",
+    "ofertante": "EventCuisine"
+  },
+  {
+    "ofertaid": 61,
+    "title": "Descuento en Equipos de Fotografía",
+    "description": "Captura momentos especiales con nuestros equipos de fotografía. Descuentos exclusivos para entusiastas y profesionales.",
+    "category": "Tecnologia",
+    "region": "Amazonía",
+    "ofertante": "PhotoTech"
+  },
+  {
+    "ofertaid": 62,
+    "title": "Oferta en Artículos de Aseo para Mascotas",
+    "description": "Cuida a tus mascotas con nuestros productos de aseo. Descuentos especiales en kits de cuidado para perros y gatos.",
+    "category": "Productos Personales",
+    "region": "Orinoquía",
+    "ofertante": "PetCareEssentials"
+  },
+  {
+    "ofertaid": 63,
+    "title": "Promoción en Servicios de Diseño Gráfico",
+    "description": "Impulsa tu marca con nuestro servicio de diseño gráfico. Descuentos exclusivos para pequeñas empresas y emprendedores.",
+    "category": "Tecnologia",
+    "region": "Insular",
+    "ofertante": "DesignCrafters"
+  },
+  {
+    "ofertaid": 64,
+    "title": "Descuento en Equipos de Sonido para Automóviles",
+    "description": "Mejora tu experiencia de conducción con nuestros equipos de sonido. Descuentos para amantes de la música en el camino.",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "CarAudioMasters"
+  },
+  {
+    "ofertaid": 65,
+    "title": "Venta de Productos Orgánicos",
+    "description": "Adopta un estilo de vida saludable con nuestros productos orgánicos. Descuentos exclusivos para compras en línea.",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "OrganicHarvest"
+  },
+  {
+    "ofertaid": 66,
+    "title": "Descuento en Artículos de Limpieza del Hogar",
+    "description": "Mantén tu hogar limpio y fresco con nuestros productos. Descuentos especiales para compras al por mayor.",
+    "category": "Productos de Limpieza",
+    "region": "Andina",
+    "ofertante": "HomeFreshSupplies"
+  },
+  {
+    "ofertaid": 67,
+    "title": "Oferta en Ropa Deportiva para Mujeres",
+    "description": "Eleva tu rendimiento con nuestra línea de ropa deportiva femenina. Descuentos exclusivos en conjuntos y accesorios.",
+    "category": "Ropa y Calzado",
+    "region": "Orinoquía",
+    "ofertante": "FitFemmeApparel"
+  },
+  {
+    "ofertaid": 68,
+    "title": "Descuento en Servicios de Asesoría Legal",
+    "description": "Protege tu negocio con nuestra asesoría legal especializada. Descuentos para pequeñas empresas y emprendedores.",
+    "category": "Otros",
+    "region": "Amazonía",
+    "ofertante": "LegalGuardians"
+  },
+  {
+    "ofertaid": 69,
+    "title": "Promoción en Servicios de Peluquería",
+    "description": "Transforma tu look con nuestro servicio de peluquería. Descuentos exclusivos en cortes, coloración y tratamientos capilares.",
+    "category": "Productos Personales",
+    "region": "Insular",
+    "ofertante": "StyleSalon"
+  },
+  {
+    "ofertaid": 70,
+    "title": "Oferta en Tecnología para la Educación a Distancia",
+    "description": "Facilita la educación a distancia con nuestra tecnología especializada. Descuentos exclusivos para instituciones educativas.",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "DistanceEdTech"
+  },
+  {
+    "ofertaid": 71,
+    "title": "Descuento en Ropa de Moda Masculina",
+    "description": "Actualiza tu estilo con nuestra colección de moda masculina. Descuentos exclusivos en prendas y accesorios.",
+    "category": "Ropa y Calzado",
+    "region": "Andina",
+    "ofertante": "MensFashionHub"
+  },
+  {
+    "ofertaid": 72,
+    "title": "Oferta en Productos de Belleza Veganos",
+    "description": "Cuida tu piel de manera ética con nuestros productos veganos. Descuentos exclusivos en cremas, maquillaje y más.",
+    "category": "Productos Personales",
+    "region": "Caribe",
+    "ofertante": "VeganBeautyCo"
+  },
+  {
+    "ofertaid": 73,
+    "title": "Venta de Herramientas de Jardinería",
+    "description": "Haz que tu jardín florezca con nuestras herramientas de alta calidad. Descuentos especiales para amantes de la jardinería.",
+    "category": "Servicios Basicos",
+    "region": "Orinoquía",
+    "ofertante": "GardenTools"
+  },
+  {
+    "ofertaid": 74,
+    "title": "Descuento en Servicios de Desarrollo Web",
+    "description": "Impulsa tu presencia en línea con nuestro servicio de desarrollo web. Descuentos exclusivos para pequeñas empresas.",
+    "category": "Tecnologia",
+    "region": "Amazonía",
+    "ofertante": "WebMasters"
+  },
+  {
+    "ofertaid": 75,
+    "title": "Promoción en Juguetes Educativos para Niños",
+    "description": "Estimula la mente de tus hijos con nuestros juguetes educativos. Descuentos exclusivos en sets de aprendizaje.",
+    "category": "Cuidado Infantil",
+    "region": "Insular",
+    "ofertante": "EduPlayToys"
+  },
+  {
+    "ofertaid": 76,
+    "title": "Descuento en Productos de Limpieza Ecológicos",
+    "description": "Cuida el medio ambiente con nuestros productos de limpieza ecológicos. Descuentos especiales para compras en línea.",
+    "category": "Productos de Limpieza",
+    "region": "Pacífico",
+    "ofertante": "EcoCleanSolutions"
+  },
+  {
+    "ofertaid": 77,
+    "title": "Oferta en Equipos de Entrenamiento en Casa",
+    "description": "Transforma tu hogar en un gimnasio personal. Descuentos exclusivos en equipos de ejercicio y accesorios.",
+    "category": "Alimentacion",
+    "region": "Andina",
+    "ofertante": "HomeFitnessGear"
+  },
+  {
+    "ofertaid": 78,
+    "title": "Descuento en Artículos de Cocina de Alta Gama",
+    "description": "Equipa tu cocina con nuestros artículos de alta gama. Descuentos exclusivos en utensilios y electrodomésticos premium.",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "GourmetKitchenWare"
+  },
+  {
+    "ofertaid": 79,
+    "title": "Oferta en Servicios de Reparación de Electrónicos",
+    "description": "Reparamos tus dispositivos electrónicos con rapidez y garantía. Descuentos para clientes recurrentes.",
+    "category": "Tecnologia",
+    "region": "Orinoquía",
+    "ofertante": "TechFixers"
+  },
+  {
+    "ofertaid": 80,
+    "title": "Descuento en Productos de Belleza Natural",
+    "description": "Experimenta la belleza natural con nuestros productos. Obtén un 20% de descuento en toda nuestra línea.",
+    "category": "Productos Personales",
+    "region": "Insular",
+    "ofertante": "NatureBeauty"
+  },
+  {
+    "ofertaid": 81,
+    "title": "Descuento en Ropa de Moda Juvenil",
+    "description": "Renueva tu armario con nuestra colección de moda juvenil. Descuentos exclusivos en prendas de última tendencia.",
+    "category": "Ropa y Calzado",
+    "region": "Amazonía",
+    "ofertante": "YouthFashionTrends"
+  },
+  {
+    "ofertaid": 82,
+    "title": "Oferta en Equipos de Camping",
+    "description": "Prepárate para la aventura con nuestros equipos de camping. Descuentos exclusivos en tiendas, sacos de dormir y más.",
+    "category": "Otros",
+    "region": "Pacífico",
+    "ofertante": "OutdoorExplorers"
+  },
+  {
+    "ofertaid": 83,
+    "title": "Descuento en Productos de Cuidado Facial",
+    "description": "Mímate con nuestros productos de cuidado facial. Descuentos especiales en limpiadores, cremas y mascarillas.",
+    "category": "Productos Personales",
+    "region": "Andina",
+    "ofertante": "FacialCareDeluxe"
+  },
+  {
+    "ofertaid": 84,
+    "title": "Promoción en Servicios de Marketing Digital",
+    "description": "Haz crecer tu negocio en línea con nuestro servicio de marketing digital. Descuentos exclusivos para emprendedores.",
+    "category": "Tecnologia",
+    "region": "Caribe",
+    "ofertante": "DigitalBoosters"
+  },
+  {
+    "ofertaid": 85,
+    "title": "Venta de Juguetes para Mascotas",
+    "description": "Divierte a tus mascotas con nuestros juguetes. Descuentos exclusivos en pelotas, juguetes masticables y más.",
+    "category": "Productos de Limpieza",
+    "region": "Orinoquía",
+    "ofertante": "PetPlayToys"
+  },
+  {
+    "ofertaid": 86,
+    "title": "Descuento en Ropa Deportiva para Hombres",
+    "description": "Mejora tu rendimiento con nuestra línea de ropa deportiva masculina. Descuentos exclusivos en prendas y accesorios.",
+    "category": "Ropa y Calzado",
+    "region": "Insular",
+    "ofertante": "FitMenApparel"
+  },
+  {
+    "ofertaid": 87,
+    "title": "Oferta en Tecnología para el Entretenimiento en Casa",
+    "description": "Disfruta del entretenimiento en casa con nuestros productos tecnológicos. Descuentos exclusivos en TVs, sistemas de sonido y más.",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "HomeEntertainmentTech"
+  },
+  {
+    "ofertaid": 88,
+    "title": "Descuento en Servicios de Consultoría de Negocios",
+    "description": "Optimiza tu empresa con nuestra consultoría de negocios. Descuentos para pequeñas y medianas empresas.",
+    "category": "Otros",
+    "region": "Amazonía",
+    "ofertante": "BizConsultingPro"
+  },
+  {
+    "ofertaid": 89,
+    "title": "Promoción en Servicios de Organización de Eventos",
+    "description": "Haz de tu evento un éxito con nuestro servicio de organización. Descuentos exclusivos para eventos corporativos y sociales.",
+    "category": "Alimentacion",
+    "region": "Caribe",
+    "ofertante": "EventPlanners"
+  },
+  {
+    "ofertaid": 90,
+    "title": "Descuento en Artículos de Viaje",
+    "description": "Prepárate para tu próximo viaje con nuestros artículos de viaje. Descuentos especiales en maletas, mochilas y accesorios.",
+    "category": "Servicios Basicos",
+    "region": "Andina",
+    "ofertante": "TravelEssentials"
+  },
+  {
+    "ofertaid": 91,
+    "title": "Oferta en Servicios de Fotografía de Bodas",
+    "description": "Inmortaliza tu día especial con nuestro servicio de fotografía de bodas. Descuentos exclusivos para contrataciones anticipadas.",
+    "category": "Otros",
+    "region": "Orinoquía",
+    "ofertante": "WeddingClicks"
+  },
+  {
+    "ofertaid": 92,
+    "title": "Descuento en Equipos de Pesca",
+    "description": "Disfruta de la pesca con nuestros equipos de alta calidad. Descuentos exclusivos en cañas, carretes y accesorios.",
+    "category": "Otros",
+    "region": "Insular",
+    "ofertante": "AnglersHaven"
+  },
+  {
+    "ofertaid": 93,
+    "title": "Oferta en Servicios de Redes Sociales",
+    "description": "Potencia tu presencia en redes sociales con nuestro servicio especializado. Descuentos exclusivos para influencers y negocios.",
+    "category": "Tecnologia",
+    "region": "Pacífico",
+    "ofertante": "SocialMediaPros"
+  },
+  {
+    "ofertaid": 94,
+    "title": "Descuento en Artículos de Decoración del Hogar",
+    "description": "Embellece tu hogar con nuestros artículos de decoración. Descuentos especiales en cuadros, almohadas y más.",
+    "category": "Inmobiliario",
+    "region": "Amazonía",
+    "ofertante": "HomeDecorWonders"
+  },
+  {
+    "ofertaid": 95,
+    "title": "Promoción en Servicios de Diseño de Logotipos",
+    "description": "Destaca tu marca con un diseño de logotipo único. Descuentos exclusivos para emprendedores y startups.",
+    "category": "Tecnologia",
+    "region": "Caribe",
+    "ofertante": "LogoCrafters"
+  },
+  {
+    "ofertaid": 96,
+    "title": "Venta de Juguetes Educativos para Bebés",
+    "description": "Estimula el desarrollo de tu bebé con nuestros juguetes educativos. Descuentos exclusivos en juegos de aprendizaje.",
+    "category": "Cuidado Infantil",
+    "region": "Andina",
+    "ofertante": "BabyEduToys"
+  },
+  {
+    "ofertaid": 97,
+    "title": "Descuento en Servicios de Traducción",
+    "description": "Rompe barreras lingüísticas con nuestro servicio de traducción. Descuentos exclusivos para documentos y proyectos extensos.",
+    "category": "Otros",
+    "region": "Orinoquía",
+    "ofertante": "TranslateMasters"
+  },
+  {
+    "ofertaid": 98,
+    "title": "Oferta en Artículos de Cuidado del Cabello",
+    "description": "Mima tu cabello con nuestros productos de cuidado capilar. Descuentos especiales en champús, acondicionadores y tratamientos.",
+    "category": "Productos Personales",
+    "region": "Insular",
+    "ofertante": "HairCareHeaven"
+  },
+  {
+    "ofertaid": 99,
+    "title": "Descuento en Ropa de Moda Infantil",
+    "description": "Viste a tus pequeños con estilo. Descuentos exclusivos en nuestra colección de moda infantil. ¡Haz que destaquen!",
+    "category": "Ropa y Calzado",
+    "region": "Pacífico",
+    "ofertante": "TinyTrend"
+  },
+  {
+    "ofertaid": 100,
+    "title": "Oferta en Servicios de Fontanería Residencial",
+    "description": "Solucionamos problemas de fontanería en tu hogar. Descuentos para servicios recurrentes y nuevos clientes.",
+    "category": "Servicios Basicos",
+    "region": "Andina",
+    "ofertante": "ResidentialPlumb"
+  }
+]
